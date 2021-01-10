@@ -66,5 +66,3 @@ For all models tested, there was increasing error in forecasts as the period of 
 
 The aforementioned strongest model used a single differencing step. The electricity load data when differenced only once is not stationary (not even close). Yet, the demand predictions reconstructed from forecasts on this series are stronger than those when the series is differenced until stationary.
 
-
-# Day-ahead-electricity-load-forecasting
